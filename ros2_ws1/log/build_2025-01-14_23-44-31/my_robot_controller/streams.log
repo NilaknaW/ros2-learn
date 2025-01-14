@@ -1,0 +1,33 @@
+[0.452s] Invoking command in '/home/nilaunix/gitfiles/ros2learn/ros2_ws1/src/my_robot_controller': PYTHONPATH=/home/nilaunix/gitfiles/ros2learn/ros2_ws1/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nilaunix/gitfiles/ros2learn/ros2_ws1/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/nilaunix/gitfiles/ros2learn/ros2_ws1/build/my_robot_controller/build install --record /home/nilaunix/gitfiles/ros2learn/ros2_ws1/build/my_robot_controller/install.log --single-version-externally-managed install_data
+[0.570s] running egg_info
+[0.570s] creating ../../build/my_robot_controller/my_robot_controller.egg-info
+[0.570s] writing ../../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[0.570s] writing dependency_links to ../../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[0.571s] writing entry points to ../../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
+[0.571s] writing requirements to ../../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[0.571s] writing top-level names to ../../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[0.571s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.572s] reading manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.572s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.574s] running build
+[0.574s] running build_py
+[0.574s] creating /home/nilaunix/gitfiles/ros2learn/ros2_ws1/build/my_robot_controller/build
+[0.575s] creating /home/nilaunix/gitfiles/ros2learn/ros2_ws1/build/my_robot_controller/build/lib
+[0.575s] creating /home/nilaunix/gitfiles/ros2learn/ros2_ws1/build/my_robot_controller/build/lib/my_robot_controller
+[0.575s] copying my_robot_controller/__init__.py -> /home/nilaunix/gitfiles/ros2learn/ros2_ws1/build/my_robot_controller/build/lib/my_robot_controller
+[0.575s] running install
+[0.575s] running install_lib
+[0.576s] creating /home/nilaunix/gitfiles/ros2learn/ros2_ws1/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[0.576s] copying /home/nilaunix/gitfiles/ros2learn/ros2_ws1/build/my_robot_controller/build/lib/my_robot_controller/__init__.py -> /home/nilaunix/gitfiles/ros2learn/ros2_ws1/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[0.576s] byte-compiling /home/nilaunix/gitfiles/ros2learn/ros2_ws1/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/__init__.py to __init__.cpython-310.pyc
+[0.577s] running install_data
+[0.577s] creating /home/nilaunix/gitfiles/ros2learn/ros2_ws1/install/my_robot_controller/share/ament_index
+[0.577s] creating /home/nilaunix/gitfiles/ros2learn/ros2_ws1/install/my_robot_controller/share/ament_index/resource_index
+[0.577s] creating /home/nilaunix/gitfiles/ros2learn/ros2_ws1/install/my_robot_controller/share/ament_index/resource_index/packages
+[0.577s] copying resource/my_robot_controller -> /home/nilaunix/gitfiles/ros2learn/ros2_ws1/install/my_robot_controller/share/ament_index/resource_index/packages
+[0.577s] copying package.xml -> /home/nilaunix/gitfiles/ros2learn/ros2_ws1/install/my_robot_controller/share/my_robot_controller
+[0.577s] running install_egg_info
+[0.578s] Copying ../../build/my_robot_controller/my_robot_controller.egg-info to /home/nilaunix/gitfiles/ros2learn/ros2_ws1/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info
+[0.578s] running install_scripts
+[0.591s] writing list of installed files to '/home/nilaunix/gitfiles/ros2learn/ros2_ws1/build/my_robot_controller/install.log'
+[0.606s] Invoked command in '/home/nilaunix/gitfiles/ros2learn/ros2_ws1/src/my_robot_controller' returned '0': PYTHONPATH=/home/nilaunix/gitfiles/ros2learn/ros2_ws1/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nilaunix/gitfiles/ros2learn/ros2_ws1/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/nilaunix/gitfiles/ros2learn/ros2_ws1/build/my_robot_controller/build install --record /home/nilaunix/gitfiles/ros2learn/ros2_ws1/build/my_robot_controller/install.log --single-version-externally-managed install_data
